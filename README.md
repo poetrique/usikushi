@@ -1,6 +1,4 @@
-# usikushi-poetry
-
-Thoughts by [@nullthefirst](https://nullthefirst.com) on life, growth and passions in between. #poetry
+# usikushi
 
 > June 11, 2022 - July 26, 2022
 
